@@ -34,5 +34,4 @@ Computer Science Engineering student at RNS Institute of Technology, Bengaluru.
 ### Connect With Me
 
 - 📧 Email: [sagargowda.b.18@gmail.com](mailto:sagargowda.b.18@gmail.com)
-- 💼 LinkedIn: [My LinkedIn](YOUR_LINKEDIN_URL)
 - 💻 GitHub: [@sagargowdab18](https://github.com/sagargowdab18)
